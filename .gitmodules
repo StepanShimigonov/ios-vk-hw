@@ -1,0 +1,15 @@
+[submodule "ios-itmo-2023-assignment-1-StepanShimigonov"]
+	path = ios-itmo-2023-assignment-1-StepanShimigonov
+	url = https://github.com/VKEducation/ios-itmo-2023-assignment-1-StepanShimigonov
+[submodule "hw/ios-itmo-2023-assignment-1-StepanShimigonov"]
+	path = hw/ios-itmo-2023-assignment-1-StepanShimigonov
+	url = https://github.com/VKEducation/ios-itmo-2023-assignment-1-StepanShimigonov
+[submodule "hw/ios-itmo-2023-assignment-3-StepanShimigonov"]
+	path = hw/ios-itmo-2023-assignment-3-StepanShimigonov
+	url = https://github.com/VKEducation/ios-itmo-2023-assignment-3-StepanShimigonov
+[submodule "hw/ios-itmo-2023-assignment-4-StepanShimigonov"]
+	path = hw/ios-itmo-2023-assignment-4-StepanShimigonov
+	url = https://github.com/VKEducation/ios-itmo-2023-assignment-4-StepanShimigonov
+[submodule "hw/ios-itmo-2023-assignment-5-StepanShimigonov"]
+	path = hw/ios-itmo-2023-assignment-5-StepanShimigonov
+	url = https://github.com/VKEducation/ios-itmo-2023-assignment-5-StepanShimigonov
